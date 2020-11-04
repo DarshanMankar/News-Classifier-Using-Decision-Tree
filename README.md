@@ -1,2 +1,3 @@
 # News-Classifier-Using-Decision-Tree
-Decision Tree algorithm for news classifier
+<p>Decision Tree algorithm for news classifier<br>
+<p>Datasets are available on Kaggle
